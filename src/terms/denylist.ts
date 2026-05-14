@@ -56,6 +56,9 @@ const bannedText: string[] = [
   ' vagina ',
   ' wank ',
   ' whore ',
+  // false positives
+  ' GDQuest ', // Godot game dev
+  ' GDScript ', // Godot game dev
 ]
 
 // Exclude posts from these users

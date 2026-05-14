@@ -6,7 +6,7 @@ const matchText: string[] = [
   ' #speedrun',
   ' #speedrunner',
   // events
-  ' agdq',
+  ' agdq ',
   'arpgme',
   ' benelux speedrunner gathering ',
   ' bsg annual ',
@@ -20,8 +20,8 @@ const matchText: string[] = [
   'frost fatales',
   'games done quick',
   'gamesdonequick',
-  ' #gdq',
-  ' gdq',
+  ' #gdq ',
+  ' gdq ',
   ' gdqueer ',
   'interglitches',
   'lady arcaders',
@@ -30,6 +30,7 @@ const matchText: string[] = [
   'obscurathon',
   'power up with pride',
   'prevent a thon',
+  'rpg limit break',
   'really really long a thon',
   'really really lots of lore',
   'rtainjapan',
@@ -84,6 +85,7 @@ const matchUsers: string[] = [
   'did:plc:q7ecflq2zteowyqgysmstb2e', // powerupwithpride.bsky.social
   'did:plc:yggbmd27ii4z3cpgpabaa2gn', // preventathon.bsky.social
   'did:plc:x6b5kfl6bnrgplbentbei6mg', // therpgvalkyries.bsky.social
+  'did:plc:lrzfwbjwcnhzye3jqnzbxnfx', // rpglimitbreak.bsky.social
   'did:plc:pz54re7np33stvrgz4bj6nbl', // rtajapan.bsky.social
   'did:plc:mfmbxqdlvkunpb2i2rwdtvhn', // therun.bsky.social
   'did:plc:275rmae3bc63ib5pcsmmtw5d', // fastestfurs.com
