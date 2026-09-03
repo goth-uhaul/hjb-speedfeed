@@ -4187,7 +4187,7 @@ export const schemaDict = {
           image: {
             type: 'blob',
             accept: ['image/*'],
-            maxSize: 1000000,
+            maxSize: 2000000,
           },
           alt: {
             type: 'string',
