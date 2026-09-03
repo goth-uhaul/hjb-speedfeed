@@ -1,21 +1,17 @@
-
 {
   "compilerOptions": {
-    "lib": [
-      "ESNext",
-    ],
-    "outDir": "dist",
-    "module": "CommonJS",
+    "lib": ["ESNext"],
+    "rootDir": ".",
+    "outDir": "./src",
+    "module": "NodeNext",
     "target": "ES6",
     "esModuleInterop": true,
-    "moduleResolution": "node",
+    "moduleResolution": "nodenext",
     "alwaysStrict": true,
     "allowUnreachableCode": false,
     "strictNullChecks": true,
     "skipLibCheck": true
   },
   "include": ["./src/**/*.ts"],
-  "exclude": [
-    "node_modules"
-  ]
+  "exclude": ["node_modules"]
 }
