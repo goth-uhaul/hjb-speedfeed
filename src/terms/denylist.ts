@@ -67,6 +67,7 @@ const bannedUsers: string[] = [
   'did:plc:25vwhhzdpnaujzookpsqxlns', // lpx.bsky.social (low effort content)
   'did:plc:uamgc5xgnuk4c5dfmikxgxcd', // speedrun-new.bsky.social (frequent automated content)
   'did:plc:rrlwqxpvjxqngeiia6idwce3', // speedrunbot.bsky.social (frequent automated content)
+  'did:plc:xsh5zunyxidef2j2xhwpzdvy', // haplogamingchef.bsky.social (frequent automated content)
 ]
 
 export { bannedText, bannedUsers }
