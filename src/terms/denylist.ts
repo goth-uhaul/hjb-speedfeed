@@ -59,6 +59,8 @@ const bannedText: string[] = [
   // false positives
   ' GDQuest ', // Godot game dev
   ' GDScript ', // Godot game dev
+  // other
+  ' Goon Games Done Quick ', // no one cares that "Goon Games Done Quick" liked your post
 ]
 
 // Exclude posts from these users
